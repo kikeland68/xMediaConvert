@@ -1,0 +1,22 @@
+/* 
+   Localizable.strings
+   VideoMonkey
+
+   Created by kikeland on 22/05/10.
+   Copyright 2010 ebjsoft. All rights reserved.
+ */
+ 
+"START" = "Comenzar";
+"STARTENCODE" = "Pulse comenzar para codificar fichero(s)";
+"SAVETO" = "Misma carpeta de entrada";
+"STARTING" = "Comenzando";
+"FINISHING" = "Terminando";
+"FILE" = "%@ archivo %d...";
+"ESTIMATINGTIME" = "Estimando tiempo restante para";
+"ABOUTAMINUTE" = "Queda aproximadamente un minuto para";
+"ABOUT_N_MINUTES" = "Quedan aproximadamente %d minutos para";
+"LESS_THAN_A_MINUTE" = "Queda menos de un minuto para";
+"FILE_OF_TOTAL" = "Archivo %d de %d";
+"ENCODED_SUCCESSFUL" = "Todos los archivos se han codificado sin errores";
+"ENCODED_UNSUCCESSFUL" = "Ha habido errores al codificar algunos ficheros. Abra la consola para mostrar los detalles";
+"START_CODIFYING" = "Codificando ...";

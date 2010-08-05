@@ -1,0 +1,22 @@
+/* 
+   Localizable.strings
+   VideoMonkey
+
+   Created by kikeland on 22/05/10.
+   Copyright 2010 ebjsoft. All rights reserved.
+ */
+ 
+"START" = "Start";
+"STARTENCODE" = "Press start to encode";
+"SAVETO" = "Same folder as input file";
+"STARTING" = "Starting";
+"FINISHING" = "Finishing";
+"FILE" = "%@ file %d...";
+"ESTIMATINGTIME" = "Estimating time remaining for";
+"ABOUTAMINUTE" = "About a minute remaining for";
+"ABOUT_N_MINUTES" = "About %d minutes remaining for";
+"LESS_THAN_A_MINUTE" = "Less than a minute remaining for";
+"FILE_OF_TOTAL" = "File %d of %d";
+"ENCODED_SUCCESSFUL" = "All files finished encoding without errors";
+"ENCODED_UNSUCCESSFUL" = "Some files had errors during encoding. See Console for details";
+"START_CODIFYING" = "Codifying ...";
