@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svnroot/videomonkey/!svn/ver/330/trunk/ffpresets
+END
+default.ffpreset
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/videomonkey/!svn/ver/330/trunk/ffpresets/default.ffpreset
+END
+hq.ffpreset
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/videomonkey/!svn/ver/330/trunk/ffpresets/hq.ffpreset
+END
+normal.ffpreset
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/videomonkey/!svn/ver/330/trunk/ffpresets/normal.ffpreset
+END
+fastest.ffpreset
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/videomonkey/!svn/ver/203/trunk/ffpresets/fastest.ffpreset
+END
+hq-pass1.ffpreset
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/videomonkey/!svn/ver/203/trunk/ffpresets/hq-pass1.ffpreset
+END
+normal-pass1.ffpreset
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/videomonkey/!svn/ver/203/trunk/ffpresets/normal-pass1.ffpreset
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/videomonkey/!svn/ver/159/trunk/sparkle/SparkleExtras/Signing%20Tools
+END
+sign_update.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/videomonkey/!svn/ver/159/trunk/sparkle/SparkleExtras/Signing%20Tools/sign_update.rb
+END
+dsa_priv.pem
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/videomonkey/!svn/ver/159/trunk/sparkle/SparkleExtras/Signing%20Tools/dsa_priv.pem
+END
+generate_keys.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/videomonkey/!svn/ver/159/trunk/sparkle/SparkleExtras/Signing%20Tools/generate_keys.rb
+END
+dsa_pub.pem
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/videomonkey/!svn/ver/159/trunk/sparkle/SparkleExtras/Signing%20Tools/dsa_pub.pem
+END

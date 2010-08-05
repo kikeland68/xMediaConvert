@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/videomonkey/!svn/ver/286/trunk/bin
+END
+qt_info
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/videomonkey/!svn/ver/159/trunk/bin/qt_info
+END
+normalize
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/videomonkey/!svn/ver/93/trunk/bin/normalize
+END
+ffmpeg
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/videomonkey/!svn/ver/186/trunk/bin/ffmpeg
+END
+qt_export
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/videomonkey/!svn/ver/65/trunk/bin/qt_export
+END
+yuvcorrect
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/videomonkey/!svn/ver/88/trunk/bin/yuvcorrect
+END
+toyuv
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/videomonkey/!svn/ver/84/trunk/bin/toyuv
+END
+mediainfo
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/videomonkey/!svn/ver/286/trunk/bin/mediainfo
+END
+AtomicParsley
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/videomonkey/!svn/ver/268/trunk/bin/AtomicParsley
+END
+movtoy4m
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/videomonkey/!svn/ver/57/trunk/bin/movtoy4m
+END
+yuvadjust
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/videomonkey/!svn/ver/57/trunk/bin/yuvadjust
+END
